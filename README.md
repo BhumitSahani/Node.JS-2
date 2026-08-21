@@ -1,1 +1,2 @@
 # Node.JS-2
+This is the final project focused only on node.js. This is the website on horror sightings of people around the world along with the flashing news about horror.In this project, i tried to accomplish almost all the important backend functionality. It allows user to update the record on website and see his record on the live website. It also shows data from backend in form of news. Also since it was a backend project so i did backend and copied frontend.
